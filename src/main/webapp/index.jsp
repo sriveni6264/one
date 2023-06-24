@@ -4,7 +4,11 @@
         <h1 style="color: red; font-size: 40px;" align="center">THIS IS MY SECOND VERSION OF APP</h1>
         <h1 style="color: green; font-size: 40px;" align="center">THIS IS MY THIRD VERSION OF APP</h1>
         <h1 style="color: blue; font-size: 60px;" align="center">my ajio application is deployed</h1>
+         <h1 style="color: pink; font-size: 60px;" align="center">my ajio application is deployed</h1>
+	<h1 style="color: black; font-size: 60px;" align="center">my ajio application is deployed</h1>
+         <h1 style="color: purple; font-size: 60px;" align="center">my ajio application is deployed</h1>
 
+        
 	
 	
 	
